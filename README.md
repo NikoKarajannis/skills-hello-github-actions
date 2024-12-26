@@ -2,6 +2,8 @@
 
 # Hello GitHub Actions
 
+The most stupid change that has ever been made to a file!
+
 _Create and run a GitHub Actions workflow._
 
 </header>
